@@ -90,7 +90,7 @@ function showErrorState() {
 }
 
 function forwardToId(params) {
-  location.href = `/FistaszjoObywatel/id?${params}`;
+  location.href = `/Obywatel2/id?${params}`;
 }
 
 const guide = document.querySelector('.guide_holder');
